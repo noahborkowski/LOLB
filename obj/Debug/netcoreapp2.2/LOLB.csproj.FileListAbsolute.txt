@@ -1,0 +1,11 @@
+C:\Users\noahb\source\LOLB\bin\Debug\netcoreapp2.2\LOLB.deps.json
+C:\Users\noahb\source\LOLB\bin\Debug\netcoreapp2.2\LOLB.runtimeconfig.json
+C:\Users\noahb\source\LOLB\bin\Debug\netcoreapp2.2\LOLB.runtimeconfig.dev.json
+C:\Users\noahb\source\LOLB\bin\Debug\netcoreapp2.2\LOLB.dll
+C:\Users\noahb\source\LOLB\bin\Debug\netcoreapp2.2\LOLB.pdb
+C:\Users\noahb\source\LOLB\obj\Debug\netcoreapp2.2\LOLB.csprojAssemblyReference.cache
+C:\Users\noahb\source\LOLB\obj\Debug\netcoreapp2.2\LOLB.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\LOLB\obj\Debug\netcoreapp2.2\LOLB.AssemblyInfoInputs.cache
+C:\Users\noahb\source\LOLB\obj\Debug\netcoreapp2.2\LOLB.AssemblyInfo.cs
+C:\Users\noahb\source\LOLB\obj\Debug\netcoreapp2.2\LOLB.dll
+C:\Users\noahb\source\LOLB\obj\Debug\netcoreapp2.2\LOLB.pdb
