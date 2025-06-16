@@ -1,0 +1,15 @@
+$source = @"
+using System;
+
+namespace EvilNamespace {
+    public class EvilClass {
+        public static void Execute() {
+            Console.WriteLine("Payload executed in memory!");
+            System.Diagnostics.Process.Start("calc.exe");
+        }
+    }
+}
+"@
+
+Add-Type -TypeDefinition $source -Language CSharp
+[EvilNamespace.EvilClass]::Execute()
